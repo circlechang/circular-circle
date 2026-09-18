@@ -23,43 +23,99 @@
 ## 讀法地圖（照順序讀；https://circlechang.github.io/circular-circle/guide/）
 
 ### 起點｜先看地圖：兩部法怎麼分工（我不做回收，為什麼也得把這兩部法讀完？）
-- [你手上那個箱子，現在是廢棄物嗎？](https://circlechang.github.io/circular-circle/posts/waste-status-not-industry/)：讀《廢棄物清理法》第2條與第41、46條，看懂決定要不要牌照的關鍵不是行業別，是東西當下的法律身分。
-- [兩部法的第一條，動詞已經寫死了分工](https://circlechang.github.io/circular-circle/posts/two-laws-one-pivot-moment/)：資源循環推動法與廢棄物清理法同年修正公布，第一條動詞不同、第四條藏著一個樞紐時刻，我讀完後的判斷整理。
-- [網路平台也要顧包裝了，但這條沒有牙齒](https://circlechang.github.io/circular-circle/posts/platform-packaging-responsibility-article5/)：資循法第5條第5款要求網路交易平台訂管理機制促成包裝減量，但罰則章沒引用這條，機制內容也還沒公告。
-- [同一批箱子，罰鍰跟刑責之間只隔一條線](https://circlechang.github.io/circular-circle/posts/fine-vs-criminal-liability-circular-law-line/)：資源循環推動法罰鍰最高30萬且無刑責，廢棄物清理法有刑責，同一批物質換了法律身分，最壞情況可能整個換掉。
+- [先確認物品的法律身分，再談要不要牌照](https://circlechang.github.io/circular-circle/posts/waste-status-not-industry/)：循環包裝業者要不要辦廢棄物清除許可，看的是東西當下的法律身分，行業別決定不了。
+- [先看法條動詞，判斷它管產生前或產生後](https://circlechang.github.io/circular-circle/posts/two-laws-one-pivot-moment/)：從兩部法第1條動詞看管轄範圍：一部管廢棄物產生前，一部管產生後，這是挑法條前要先確認的判斷。
+- [抑制物品成為廢棄物，已寫進業者的責任原則](https://circlechang.github.io/circular-circle/posts/platform-packaging-responsibility-article5/)：第5條把抑制廢棄物產生、電商平台義務寫成原則；沒有罰則不代表沒有作用，這篇拆開它的機制與邊界。
+- [先問東西站在哪一段，再決定讀哪一部法](https://circlechang.github.io/circular-circle/posts/fine-vs-criminal-liability-circular-law-line/)：推動法第4條「失去原效用後」劃出兩部法的分界，身分不同時，你面對的最壞後果可能從罰鍰跳到刑責。
 
 ### 單元一｜身分：東西什麼時候變成廢棄物（同一個箱子，什麼時候是資產，什麼時候是廢棄物？）
-- [還能用，法律不管這個。](https://circlechang.github.io/circular-circle/posts/when-effect-is-unclear-its-waste/)：從廢清法第2條的「效用不明」談起：法律看的不是東西壞不壞，而是你講不講得出它現在的效用。
-- [形態有沒有變，決定你敲哪個機關的門。](https://circlechang.github.io/circular-circle/posts/reuse-or-reprocess-shape-decides-the-agency/)：《資源循環推動法》用「形態有沒有改變」分辨再使用跟再生利用，這條線也決定你要去敲哪個機關的門。
-- [「之後再用」不是身分，是意圖。](https://circlechang.github.io/circular-circle/posts/reuse-intent-is-not-legal-status/)：從倉庫裡「之後再用」的舊箱談起，拆資源循環推動法與廢棄物清理法怎麼認定一批東西的身分。
-- [破箱子堆在角落，算資產還是廢棄物？](https://circlechang.github.io/circular-circle/posts/packaging-boxes-asset-or-waste/)：從《廢棄物清理法》第2條與2-1條看，循環包材何時還是資產，何時滑向廢棄物。
-- [汰換整批箱子，法律先問你在做哪件事](https://circlechang.github.io/circular-circle/posts/retiring-reusable-boxes-waste-law-or-resource-law/)：循環包材整批汰換退場時，走廢棄物清理法還是資源循環推動法，責任與規矩差很多，而且身分不是永久的。
-- [辦法還沒公布，紀錄要不要照樣留？](https://circlechang.github.io/circular-circle/posts/record-keeping-during-the-regulatory-gap/)：資源循環推動法第25條授權的清運貯存辦法還沒公布，這段空窗期該怎麼留紀錄，我的讀法整理。
+- [法律不看東西還能不能用，看有沒有人放棄它](https://circlechang.github.io/circular-circle/posts/when-effect-is-unclear-its-waste/)：廢棄物身分不看箱子還能不能用，看有沒有人放棄、效用說不說得清、有沒有公告，還可能被所有人的行為往下改。
+- [再使用與再生利用只差形態，先分清楚再找機關](https://circlechang.github.io/circular-circle/posts/reuse-or-reprocess-shape-decides-the-agency/)：再生資源要公告或核准才成立；再使用與再生利用只差原物質形態，我讀成兩者對應不同機關。
+- [再生資源的身分要靠持續合規來續約](https://circlechang.github.io/circular-circle/posts/reuse-intent-is-not-legal-status/)：再生資源不是永久身分。資循法第 30 條寫了兩種掉法，第 29、40、46 條決定留在這一格的代價。
+- [正常周轉的循環包材不用清除許可，靠的是身分](https://circlechang.github.io/circular-circle/posts/packaging-boxes-asset-or-waste/)：正常周轉的循環包材不需清除許可，撐住它的是所有權、效用與紀錄構成的法律身分，環保理念撐不住。
+- [原效用減失的箱子，身分看有沒有公告或核准](https://circlechang.github.io/circular-circle/posts/retiring-reusable-boxes-waste-law-or-resource-law/)：破損的循環箱在原效用減失之後，要有公告或核准才算再生資源；汰換整批時也要先分清楚走哪條法規路徑。
+- [先看身分站在哪一邊，再談罰則有多重](https://circlechang.github.io/circular-circle/posts/record-keeping-during-the-regulatory-gap/)：兩部法罰則量級不同，分界在東西的法律身分，不在你有多小心。
 
 ### 單元二｜門檻：牌照、刑責與沙盒（哪些事要先拿牌照？沒有牌照的人還有哪條路？）
-- 整理中
+- [先問東西是不是廢棄物，再談要不要牌照](https://circlechang.github.io/circular-circle/posts/waste-permit-identity-not-company/)：廢棄物清理法第41條的許可制看的是動作不是公司身分，四個承重點缺一個都要重新判斷。
+- [客戶的連帶責任，決定誰能接到清運案子](https://circlechang.github.io/circular-circle/posts/waste-disposal-delegation-liability-license/)：廢棄物清理法把委託人也綁進連帶責任，這件事比牌照本身更能決定誰接得到清運案子。
+- [無照從事清除，條文沒寫要等到污染才入罪](https://circlechang.github.io/circular-circle/posts/no-license-itself-is-the-crime/)：廢清法第46條第4款的文字沒有污染要件，無照從事清除處理就可能入罪；清運市場封閉也是門檻疊出來的，不靠關係解釋。
+- [創新實驗的入口看計畫，不看牌照](https://circlechang.github.io/circular-circle/posts/circular-sandbox-article-37-reading-notes/)：第 37 條創新實驗入口看計畫設計，能排除的只有九條規定，且只在核准期間與範圍內有效。
+- [送沙盒之前，先問公開之後你還剩什麼](https://circlechang.github.io/circular-circle/posts/rcpa-37-sandbox-disclosure-nine-provisions/)：資源循環推動法第 37 條的創新實驗要公開、有期限、只能排除九條規定。送件前先算三件事。
 
 ### 單元三｜義務：法律要你做什麼（綠色設計、重複使用、延長使用、禁限用，各自什麼時候落到你身上？）
-- 整理中
+- [先讀第 52 條：被推遲的只有綠色設計核定](https://circlechang.github.io/circular-circle/posts/rcpa-article-52-green-design-deferral/)：資源循環推動法第 52 條只讓第 14 條與第 38 條第 1 項晚兩年施行，其餘條文已生效，第 13 條第 3 項也在其中。
+- [再生料紀錄補不回來，先留紀錄再等準則](https://circlechang.github.io/circular-circle/posts/green-design-recycled-content-records-before-2028/)：綠色設計義務 2028 年才生效，但再生料的來源與投料紀錄補不回來。整理第 14 條第 3 項的機制與我的判斷。
+- [別把六千元的罰鍰讀成定價，先看按次處罰](https://circlechang.github.io/circular-circle/posts/green-design-penalty-per-occurrence/)：綠色設計罰則六千元起跳，但條文接限期改善與按次處罰，我的讀法是繳完罰鍰後義務還在。
+- [重複使用有了法條，但要等公告才有義務](https://circlechang.github.io/circular-circle/posts/reuse-target-rcpa-article-16-switch/)：《資源循環推動法》第 16 條沒有給數字，卻把重複使用寫成計畫核准、成果備查的流程；義務要等公告才生效。
+- [先看你站在供應鏈哪一端，再讀包裝規格條文](https://circlechang.github.io/circular-circle/posts/packaging-spec-article-19-two-tier-penalty/)：第 19 條若對某品類公告，管的是出貨包裝的規格；第 42、44 條依業者身分分兩級罰則。
+- [條文已生效，義務要等公告才落到你身上](https://circlechang.github.io/circular-circle/posts/reuse-target-law-in-force-duty-waits-for-notice/)：重複使用首度入法，生效的只有主管機關的指定權。公告前先備好資料與流程。
+- [延長使用沒有自願申請，只等公告點到](https://circlechang.github.io/circular-circle/posts/extended-use-law-requires-official-announcement/)：資源循環推動法第20條把租賃、押金回收、重複填充寫進法律，義務只在被公告點名後才啟動，我目前還沒查到公告。
+- [押金要卡在兩條線之間，不是越高越好](https://circlechang.github.io/circular-circle/posts/deposit-liability-two-thresholds/)：押金是負債不是收入，金額要卡在消費者保有價值與願付現金之間：太低東西回不來，太高第一次交易就被擋掉。
+- [押金補誘因，密度補距離，兩者不能同時省](https://circlechang.github.io/circular-circle/posts/deposit-density-substitute-effect/)：資源循環推動法第20條把押金與密度、罰則與設施分開規定，這篇整理成四條可判斷的原則。
+- [中央公告是地板，地方政府可以再往上加嚴](https://circlechang.github.io/circular-circle/posts/article-18-relocated-and-local-override/)：資源循環推動法第18條把禁限用權力從廢清法第21條搬過來，多了地方加嚴與強制下架兩項設計，包材規格要重新驗算。
+- [材質選擇從價格題變成規格題](https://circlechang.github.io/circular-circle/posts/article-18-price-to-spec-question/)：資源循環推動法第18條的禁限用規定，接在廢清法費率表早已定價的干擾訊號之後，材質選擇從划不划算變成准不准做。
+- [地方可訂更嚴的規定，也可令你的貨下架](https://circlechang.github.io/circular-circle/posts/local-rules-and-takedown-orders-article-18/)：資源循環推動法第 18 條第 3、4 項讓地方可加嚴規定並令貨下架、銷毀、退運，不遵行依第 39 條處罰。
 
 ### 單元四｜錢路：標誌、採購與費率（新法打開的錢從哪裡來？要拿出什麼證明？）
-- 整理中
+- [循環標誌是資格，接上第32條才是通路](https://circlechang.github.io/circular-circle/posts/circular-label-status-not-sticker-priority-procurement/)：循環標誌是可核准、抽驗、廢止的資格，接上《資源循環推動法》第32條的政府優先採購，才從標章變成通路入口。
+- [循環服務進優先採購，我讀到的入口是第 21 條核准](https://circlechang.github.io/circular-circle/posts/circular-mark-procurement-entry/)：循環標誌與環保標章分開申請、分開罰則；循環服務要進優先採購，我讀到的入口是第 21 條，第 22 條第 6 款則要求動態更新。
+- [循環標誌是資格，優先採購才可能讓它變通路](https://circlechang.github.io/circular-circle/posts/circular-mark-qualification-vs-priority-procurement/)：循環標誌是資格，第 32 條的「應優先採購」加績效評核才可能讓它成為通路；辦法與實績我尚未查到。
+- [這條費用管線用公斤計價，我讀不到次數](https://circlechang.github.io/circular-circle/posts/waste-act-fee-pipeline-weight-not-reuse-count/)：廢清法的容器回收費從公告、繳費到補貼都以公斤計量，我在條文裡讀不到重複使用次數的位置。
+- [重複使用換費率折扣只有玻璃先例，第 26 條要等子法](https://circlechang.github.io/circular-circle/posts/reuse-rate-discount-glass-and-article-26/)：玻璃容器綠色費率已能引用，《資源循環推動法》第 26 條要等子法。整理兩條路的條文依據與適用邊界。
+- [付錢的兩條路，先比你的位置，再比單價](https://circlechang.github.io/circular-circle/posts/two-payment-paths-position-before-price/)：基金制與第 26 條的差別在可控性與資料所有權。循環包裝的減費入口，我只在基金制那條看到。
+- [第五章的「得」給的是權限，不保證發錢](https://circlechang.github.io/circular-circle/posts/rcpa-chapter-5-incentives-de-not-ying/)：《資源循環推動法》第五章談錢的條文動詞多是「得」，資格掛在「績效優良」，辦法未發布前，能做的是備妥可查核的紀錄。
+- [獎勵給買方，融資與土地要主管機關先動](https://circlechang.github.io/circular-circle/posts/rcpa-chapter5-carrot-should-vs-may/)：資源循環推動法第五章的錢路多數寫「得」，先找「應」，再把採購端清單與績效紀錄準備好。
+- [獎勵辦法還沒出，能被查核的紀錄現在就能整理](https://circlechang.github.io/circular-circle/posts/rcpa-chapter5-incentives-preconditions-audit-trail/)：《資源循環推動法》第五章獎勵辦法未發布，但再生產品標準、規費與受委託窗口已成立，紀錄可先整理。
 
 ### 單元五｜罰則與接下來一年（罰的是什麼、誰來罰？接下來要盯哪些子法？）
-- 整理中
+- [決定罰則輕重的是行為性質，不是行業](https://circlechang.github.io/circular-circle/posts/penalty-map-procedure-vs-risk/)：拆解資源循環推動法與廢棄物清理法罰則的分界：罰程序落差用元計，罰風險外溢用年計，決定落在哪邊的是身分。
+- [沒有金額的罰則，可能才是最貴的一條](https://circlechang.github.io/circular-circle/posts/circular-law-article-50-disclosure-waste-act-46-license/)：資源循環推動法第50條公開名單沒有標金額，廢棄物清理法第46條門檻很低；兩條規則拆成可以直接判斷的原則。
+- [先看能讓你停工的處分，再看罰鍰金額](https://circlechang.github.io/circular-circle/posts/stop-orders-before-fines-penalty-map/)：廢清法第 39-4 條與第 9 條第 2 項的處分直接停營運，資循法第 50 條可公開名單。我怎麼讀這幾格，以及我可能錯在哪。
+- [命令落地的地方在子法，要在草案預告階段就開始看](https://circlechang.github.io/circular-circle/posts/watch-draft-notices-for-subordinate-rules/)：《資源循環推動法》的命令細節多在尚未定案的子法裡，草案預告階段才是還能送意見的時候。
 
 ## 文章
-- [還能用，法律不管這個。](https://circlechang.github.io/circular-circle/posts/when-effect-is-unclear-its-waste/)（2026-09-18）：從廢清法第2條的「效用不明」談起：法律看的不是東西壞不壞，而是你講不講得出它現在的效用。
-- [辦法還沒公布，紀錄要不要照樣留？](https://circlechang.github.io/circular-circle/posts/record-keeping-during-the-regulatory-gap/)（2026-09-18）：資源循環推動法第25條授權的清運貯存辦法還沒公布，這段空窗期該怎麼留紀錄，我的讀法整理。
-- [廢清法換了條號，罰鍰卻還沒有算法](https://circlechang.github.io/circular-circle/posts/waste-act-penalty-transition-rule/)（2026-09-18）：環境部函釋回覆桃園環保局提問：廢清法7月15日修法後，裁罰準則跟不上母法，現在罰鍰怎麼算才對。
-- [網路平台也要顧包裝了，但這條沒有牙齒](https://circlechang.github.io/circular-circle/posts/platform-packaging-responsibility-article5/)（2026-09-18）：資循法第5條第5款要求網路交易平台訂管理機制促成包裝減量，但罰則章沒引用這條，機制內容也還沒公告。
-- [循環標誌50張，但「第一張」我查不到](https://circlechang.github.io/circular-circle/posts/loop-mark-50-labels-first-one-unverified/)（2026-09-18）：環境部循環標誌累積到50張，經濟日報報導廣鋐是「首張」，但我核對名單後發現查不出核發日期，也搞不清現在的標誌跟母法怎麼銜接。
-- [乾電池費率要改了，但只是換了個名字。](https://circlechang.github.io/circular-circle/posts/dry-battery-fee-rate-notice-2026-09/)（2026-09-18）：環境部預告修正乾電池回收清除處理費費率公告，法源改掛新版廢清法第16條之1第5項，費率數字是否變動我還沒查到。
-- [破箱子堆在角落，算資產還是廢棄物？](https://circlechang.github.io/circular-circle/posts/packaging-boxes-asset-or-waste/)（2026-09-18）：從《廢棄物清理法》第2條與2-1條看，循環包材何時還是資產，何時滑向廢棄物。
-- [兩部法的第一條，動詞已經寫死了分工](https://circlechang.github.io/circular-circle/posts/two-laws-one-pivot-moment/)（2026-09-18）：資源循環推動法與廢棄物清理法同年修正公布，第一條動詞不同、第四條藏著一個樞紐時刻，我讀完後的判斷整理。
-- [汰換整批箱子，法律先問你在做哪件事](https://circlechang.github.io/circular-circle/posts/retiring-reusable-boxes-waste-law-or-resource-law/)（2026-09-18）：循環包材整批汰換退場時，走廢棄物清理法還是資源循環推動法，責任與規矩差很多，而且身分不是永久的。
-- [形態有沒有變，決定你敲哪個機關的門。](https://circlechang.github.io/circular-circle/posts/reuse-or-reprocess-shape-decides-the-agency/)（2026-09-18）：《資源循環推動法》用「形態有沒有改變」分辨再使用跟再生利用，這條線也決定你要去敲哪個機關的門。
-- [你手上那個箱子，現在是廢棄物嗎？](https://circlechang.github.io/circular-circle/posts/waste-status-not-industry/)（2026-09-18）：讀《廢棄物清理法》第2條與第41、46條，看懂決定要不要牌照的關鍵不是行業別，是東西當下的法律身分。
-- [同一批箱子，罰鍰跟刑責之間只隔一條線](https://circlechang.github.io/circular-circle/posts/fine-vs-criminal-liability-circular-law-line/)（2026-09-18）：資源循環推動法罰鍰最高30萬且無刑責，廢棄物清理法有刑責，同一批物質換了法律身分，最壞情況可能整個換掉。
-- [「之後再用」不是身分，是意圖。](https://circlechang.github.io/circular-circle/posts/reuse-intent-is-not-legal-status/)（2026-09-18）：從倉庫裡「之後再用」的舊箱談起，拆資源循環推動法與廢棄物清理法怎麼認定一批東西的身分。
+- [獎勵辦法還沒出，能被查核的紀錄現在就能整理](https://circlechang.github.io/circular-circle/posts/rcpa-chapter5-incentives-preconditions-audit-trail/)（2026-09-18）：《資源循環推動法》第五章獎勵辦法未發布，但再生產品標準、規費與受委託窗口已成立，紀錄可先整理。
+- [獎勵給買方，融資與土地要主管機關先動](https://circlechang.github.io/circular-circle/posts/rcpa-chapter5-carrot-should-vs-may/)（2026-09-18）：資源循環推動法第五章的錢路多數寫「得」，先找「應」，再把採購端清單與績效紀錄準備好。
+- [裁罰準則沒跟上母法，罰鍰現在用個案審酌算](https://circlechang.github.io/circular-circle/posts/waste-act-penalty-transition-rule/)（2026-09-18）：環境部函釋：廢清法7月15日修正後，裁罰準則還沒跟上母法，罰鍰現在要個案審酌，不是查表計算。
+- [無照從事清除，條文沒寫要等到污染才入罪](https://circlechang.github.io/circular-circle/posts/no-license-itself-is-the-crime/)（2026-09-18）：廢清法第46條第4款的文字沒有污染要件，無照從事清除處理就可能入罪；清運市場封閉也是門檻疊出來的，不靠關係解釋。
+- [循環標誌是資格，優先採購才可能讓它變通路](https://circlechang.github.io/circular-circle/posts/circular-mark-qualification-vs-priority-procurement/)（2026-09-18）：循環標誌是資格，第 32 條的「應優先採購」加績效評核才可能讓它成為通路；辦法與實績我尚未查到。
+- [循環標誌是資格，接上第32條才是通路](https://circlechang.github.io/circular-circle/posts/circular-label-status-not-sticker-priority-procurement/)（2026-09-18）：循環標誌是可核准、抽驗、廢止的資格，接上《資源循環推動法》第32條的政府優先採購，才從標章變成通路入口。
+- [循環服務進優先採購，我讀到的入口是第 21 條核准](https://circlechang.github.io/circular-circle/posts/circular-mark-procurement-entry/)（2026-09-18）：循環標誌與環保標章分開申請、分開罰則；循環服務要進優先採購，我讀到的入口是第 21 條，第 22 條第 6 款則要求動態更新。
+- [創新實驗的入口看計畫，不看牌照](https://circlechang.github.io/circular-circle/posts/circular-sandbox-article-37-reading-notes/)（2026-09-18）：第 37 條創新實驗入口看計畫設計，能排除的只有九條規定，且只在核准期間與範圍內有效。
+- [這條費用管線用公斤計價，我讀不到次數](https://circlechang.github.io/circular-circle/posts/waste-act-fee-pipeline-weight-not-reuse-count/)（2026-09-18）：廢清法的容器回收費從公告、繳費到補貼都以公斤計量，我在條文裡讀不到重複使用次數的位置。
+- [第五章的「得」給的是權限，不保證發錢](https://circlechang.github.io/circular-circle/posts/rcpa-chapter-5-incentives-de-not-ying/)（2026-09-18）：《資源循環推動法》第五章談錢的條文動詞多是「得」，資格掛在「績效優良」，辦法未發布前，能做的是備妥可查核的紀錄。
+- [條文已生效，義務要等公告才落到你身上](https://circlechang.github.io/circular-circle/posts/reuse-target-law-in-force-duty-waits-for-notice/)（2026-09-18）：重複使用首度入法，生效的只有主管機關的指定權。公告前先備好資料與流程。
+- [乾電池費率公告改的是法源，金額有沒有動沒寫](https://circlechang.github.io/circular-circle/posts/dry-battery-fee-rate-notice-2026-09/)（2026-09-18）：環境部預告修正乾電池回收清除處理費費率，公告本文只改法源條號與名稱，金額有沒有動，公開資料沒寫。
+- [送沙盒之前，先問公開之後你還剩什麼](https://circlechang.github.io/circular-circle/posts/rcpa-37-sandbox-disclosure-nine-provisions/)（2026-09-18）：資源循環推動法第 37 條的創新實驗要公開、有期限、只能排除九條規定。送件前先算三件事。
+- [原效用減失的箱子，身分看有沒有公告或核准](https://circlechang.github.io/circular-circle/posts/retiring-reusable-boxes-waste-law-or-resource-law/)（2026-09-18）：破損的循環箱在原效用減失之後，要有公告或核准才算再生資源；汰換整批時也要先分清楚走哪條法規路徑。
+- [重複使用換費率折扣只有玻璃先例，第 26 條要等子法](https://circlechang.github.io/circular-circle/posts/reuse-rate-discount-glass-and-article-26/)（2026-09-18）：玻璃容器綠色費率已能引用，《資源循環推動法》第 26 條要等子法。整理兩條路的條文依據與適用邊界。
+- [重複使用有了法條，但要等公告才有義務](https://circlechang.github.io/circular-circle/posts/reuse-target-rcpa-article-16-switch/)（2026-09-18）：《資源循環推動法》第 16 條沒有給數字，卻把重複使用寫成計畫核准、成果備查的流程；義務要等公告才生效。
+- [客戶的連帶責任，決定誰能接到清運案子](https://circlechang.github.io/circular-circle/posts/waste-disposal-delegation-liability-license/)（2026-09-18）：廢棄物清理法把委託人也綁進連帶責任，這件事比牌照本身更能決定誰接得到清運案子。
+- [法律不看東西還能不能用，看有沒有人放棄它](https://circlechang.github.io/circular-circle/posts/when-effect-is-unclear-its-waste/)（2026-09-18）：廢棄物身分不看箱子還能不能用，看有沒有人放棄、效用說不說得清、有沒有公告，還可能被所有人的行為往下改。
+- [押金補誘因，密度補距離，兩者不能同時省](https://circlechang.github.io/circular-circle/posts/deposit-density-substitute-effect/)（2026-09-18）：資源循環推動法第20條把押金與密度、罰則與設施分開規定，這篇整理成四條可判斷的原則。
+- [押金要卡在兩條線之間，不是越高越好](https://circlechang.github.io/circular-circle/posts/deposit-liability-two-thresholds/)（2026-09-18）：押金是負債不是收入，金額要卡在消費者保有價值與願付現金之間：太低東西回不來，太高第一次交易就被擋掉。
+- [延長使用沒有自願申請，只等公告點到](https://circlechang.github.io/circular-circle/posts/extended-use-law-requires-official-announcement/)（2026-09-18）：資源循環推動法第20條把租賃、押金回收、重複填充寫進法律，義務只在被公告點名後才啟動，我目前還沒查到公告。
+- [命令落地的地方在子法，要在草案預告階段就開始看](https://circlechang.github.io/circular-circle/posts/watch-draft-notices-for-subordinate-rules/)（2026-09-18）：《資源循環推動法》的命令細節多在尚未定案的子法裡，草案預告階段才是還能送意見的時候。
+- [沒有金額的罰則，可能才是最貴的一條](https://circlechang.github.io/circular-circle/posts/circular-law-article-50-disclosure-waste-act-46-license/)（2026-09-18）：資源循環推動法第50條公開名單沒有標金額，廢棄物清理法第46條門檻很低；兩條規則拆成可以直接判斷的原則。
+- [決定罰則輕重的是行為性質，不是行業](https://circlechang.github.io/circular-circle/posts/penalty-map-procedure-vs-risk/)（2026-09-18）：拆解資源循環推動法與廢棄物清理法罰則的分界：罰程序落差用元計，罰風險外溢用年計，決定落在哪邊的是身分。
+- [材質選擇從價格題變成規格題](https://circlechang.github.io/circular-circle/posts/article-18-price-to-spec-question/)（2026-09-18）：資源循環推動法第18條的禁限用規定，接在廢清法費率表早已定價的干擾訊號之後，材質選擇從划不划算變成准不准做。
+- [抑制物品成為廢棄物，已寫進業者的責任原則](https://circlechang.github.io/circular-circle/posts/platform-packaging-responsibility-article5/)（2026-09-18）：第5條把抑制廢棄物產生、電商平台義務寫成原則；沒有罰則不代表沒有作用，這篇拆開它的機制與邊界。
+- [別把六千元的罰鍰讀成定價，先看按次處罰](https://circlechang.github.io/circular-circle/posts/green-design-penalty-per-occurrence/)（2026-09-18）：綠色設計罰則六千元起跳，但條文接限期改善與按次處罰，我的讀法是繳完罰鍰後義務還在。
+- [地方可訂更嚴的規定，也可令你的貨下架](https://circlechang.github.io/circular-circle/posts/local-rules-and-takedown-orders-article-18/)（2026-09-18）：資源循環推動法第 18 條第 3、4 項讓地方可加嚴規定並令貨下架、銷毀、退運，不遵行依第 39 條處罰。
+- [名單排最前，不等於全台最早拿到](https://circlechang.github.io/circular-circle/posts/loop-mark-50-labels-first-one-unverified/)（2026-09-18）：循環標誌名單B000001排最前但查無核發日期；現行50張標誌依據環境部要點，還不是資源循環推動法第21條的使用管理辦法。
+- [再使用與再生利用只差形態，先分清楚再找機關](https://circlechang.github.io/circular-circle/posts/reuse-or-reprocess-shape-decides-the-agency/)（2026-09-18）：再生資源要公告或核准才成立；再使用與再生利用只差原物質形態，我讀成兩者對應不同機關。
+- [再生資源的身分要靠持續合規來續約](https://circlechang.github.io/circular-circle/posts/reuse-intent-is-not-legal-status/)（2026-09-18）：再生資源不是永久身分。資循法第 30 條寫了兩種掉法，第 29、40、46 條決定留在這一格的代價。
+- [再生料紀錄補不回來，先留紀錄再等準則](https://circlechang.github.io/circular-circle/posts/green-design-recycled-content-records-before-2028/)（2026-09-18）：綠色設計義務 2028 年才生效，但再生料的來源與投料紀錄補不回來。整理第 14 條第 3 項的機制與我的判斷。
+- [先讀第 52 條：被推遲的只有綠色設計核定](https://circlechang.github.io/circular-circle/posts/rcpa-article-52-green-design-deferral/)（2026-09-18）：資源循環推動法第 52 條只讓第 14 條與第 38 條第 1 項晚兩年施行，其餘條文已生效，第 13 條第 3 項也在其中。
+- [先確認物品的法律身分，再談要不要牌照](https://circlechang.github.io/circular-circle/posts/waste-status-not-industry/)（2026-09-18）：循環包裝業者要不要辦廢棄物清除許可，看的是東西當下的法律身分，行業別決定不了。
+- [先問東西站在哪一段，再決定讀哪一部法](https://circlechang.github.io/circular-circle/posts/fine-vs-criminal-liability-circular-law-line/)（2026-09-18）：推動法第4條「失去原效用後」劃出兩部法的分界，身分不同時，你面對的最壞後果可能從罰鍰跳到刑責。
+- [先問東西是不是廢棄物，再談要不要牌照](https://circlechang.github.io/circular-circle/posts/waste-permit-identity-not-company/)（2026-09-18）：廢棄物清理法第41條的許可制看的是動作不是公司身分，四個承重點缺一個都要重新判斷。
+- [先看能讓你停工的處分，再看罰鍰金額](https://circlechang.github.io/circular-circle/posts/stop-orders-before-fines-penalty-map/)（2026-09-18）：廢清法第 39-4 條與第 9 條第 2 項的處分直接停營運，資循法第 50 條可公開名單。我怎麼讀這幾格，以及我可能錯在哪。
+- [先看法條動詞，判斷它管產生前或產生後](https://circlechang.github.io/circular-circle/posts/two-laws-one-pivot-moment/)（2026-09-18）：從兩部法第1條動詞看管轄範圍：一部管廢棄物產生前，一部管產生後，這是挑法條前要先確認的判斷。
+- [先看身分站在哪一邊，再談罰則有多重](https://circlechang.github.io/circular-circle/posts/record-keeping-during-the-regulatory-gap/)（2026-09-18）：兩部法罰則量級不同，分界在東西的法律身分，不在你有多小心。
+- [先看你站在供應鏈哪一端，再讀包裝規格條文](https://circlechang.github.io/circular-circle/posts/packaging-spec-article-19-two-tier-penalty/)（2026-09-18）：第 19 條若對某品類公告，管的是出貨包裝的規格；第 42、44 條依業者身分分兩級罰則。
+- [正常周轉的循環包材不用清除許可，靠的是身分](https://circlechang.github.io/circular-circle/posts/packaging-boxes-asset-or-waste/)（2026-09-18）：正常周轉的循環包材不需清除許可，撐住它的是所有權、效用與紀錄構成的法律身分，環保理念撐不住。
+- [付錢的兩條路，先比你的位置，再比單價](https://circlechang.github.io/circular-circle/posts/two-payment-paths-position-before-price/)（2026-09-18）：基金制與第 26 條的差別在可控性與資料所有權。循環包裝的減費入口，我只在基金制那條看到。
+- [中央公告是地板，地方政府可以再往上加嚴](https://circlechang.github.io/circular-circle/posts/article-18-relocated-and-local-override/)（2026-09-18）：資源循環推動法第18條把禁限用權力從廢清法第21條搬過來，多了地方加嚴與強制下架兩項設計，包材規格要重新驗算。
 
