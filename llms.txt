@@ -1,0 +1,13 @@
+# 循環共學圈
+
+> 一個做循環包裝的從業者，把每天追到的台灣循環雙法（資源循環推動法、廢棄物清理法）官方動作、新聞與同業討論整理成筆記，跟同業一起讀懂。以官方公告為準。
+
+作者：Michael（循環包裝從業者）。本站是從業者的讀後筆記，不是官方說明，法規內容以官方公告為準。
+
+## 常駐整理頁
+- [循環標誌核發名單](https://circlechang.github.io/circular-circle/loopmark/)：環境部循環標誌官方名單，每天更新，截至 2026-09-18 共 50 張。
+- [子法進度筆記](https://circlechang.github.io/circular-circle/progress/)：資源循環推動法與廢棄物清理法的生效日與官方動作紀錄。
+- [關於](https://circlechang.github.io/circular-circle/about/)
+
+## 文章
+
