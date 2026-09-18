@@ -10,4 +10,7 @@
 - [關於](https://circlechang.github.io/circular-circle/about/)
 
 ## 文章
+- [廢清法換了條號，罰鍰卻還沒有算法](https://circlechang.github.io/circular-circle/posts/waste-act-penalty-transition-rule/)（2026-09-18）：環境部函釋回覆桃園環保局提問：廢清法7月15日修法後，裁罰準則跟不上母法，現在罰鍰怎麼算才對。
+- [循環標誌50張，但「第一張」我查不到](https://circlechang.github.io/circular-circle/posts/loop-mark-50-labels-first-one-unverified/)（2026-09-18）：環境部循環標誌累積到50張，經濟日報報導廣鋐是「首張」，但我核對名單後發現查不出核發日期，也搞不清現在的標誌跟母法怎麼銜接。
+- [乾電池費率要改了，但只是換了個名字。](https://circlechang.github.io/circular-circle/posts/dry-battery-fee-rate-notice-2026-09/)（2026-09-18）：環境部預告修正乾電池回收清除處理費費率公告，法源改掛新版廢清法第16條之1第5項，費率數字是否變動我還沒查到。
 
