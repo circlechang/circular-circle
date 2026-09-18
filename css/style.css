@@ -79,3 +79,20 @@ footer.site p{margin:0 0 8px}
   .tablewrap{overflow-x:auto}
   table{font-size:14px}
 }
+/* Email 訂閱（MailerLite 表單，結構見 layouts/partials/subscribe.html）｜配合書不起深色版 */
+.subscribe{max-width:var(--measure);margin:48px auto 0;background:var(--panel);border:1px solid var(--rule);border-left:4px solid var(--accent);border-radius:8px;padding:22px 24px}
+.subscribe h2{font-size:20px;margin:0 0 6px}
+.subscribe p{margin:0 0 14px;color:var(--muted);font-size:15px}
+.subscribe .ml-block-form{display:flex;gap:10px;flex-wrap:wrap}
+.subscribe .ml-form-formContent{flex:1 1 240px}
+.subscribe input[type=email]{width:100%;box-sizing:border-box;background:#121212;color:var(--ink);border:1px solid #3a3a3a;border-radius:8px;padding:11px 12px;font:inherit;font-size:16px}
+.subscribe input[type=email]:focus{outline:2px solid var(--accent);outline-offset:1px;border-color:var(--accent)}
+.subscribe .ml-error input{border-color:#e5484d}
+.subscribe .ml-form-embedSubmit button.primary{background:var(--accent);color:#121212;border:0;border-radius:8px;padding:11px 22px;font:inherit;font-weight:700;font-size:16px;cursor:pointer}
+.subscribe .ml-form-embedSubmit button.primary:hover{filter:brightness(1.08)}
+.subscribe .ml-form-embedSubmit button.loading{background:var(--accent);border:0;border-radius:8px;padding:11px 22px}
+.subscribe .sub-note{font-size:13px;margin:12px 0 0}
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);border:0}
+.ml-form-embedSubmitLoad{display:inline-block;width:16px;height:16px;border-radius:50%;border:3px solid #121212;border-color:#121212 #121212 #121212 transparent;animation:mlspin 1.2s linear infinite}
+@keyframes mlspin{to{transform:rotate(360deg)}}
+.intro .subscribe{margin-top:22px;text-align:left}
