@@ -1,4 +1,4 @@
-/* 循環共學圈 v3｜版面規律取自 blog.chiukaun.com（Substack）2026-09-18 實測：research/ck-*.png
+/* 循環筆記 v3｜版面規律取自 blog.chiukaun.com（Substack）2026-09-18 實測：research/ck-*.png
    深底 #121212／#202020、白字、次要灰 #a0a0a0、單一強調黃（引用框左線 4px）、內文 18px／1.6、版心 728px、二級標題 29px。
    只沿用版面數值，CSS 與素材皆自製。Michael 2026-09-18：外觀照書不起，配圖用他自己的風格。 */
 :root{--bg:#121212;--panel:#1c1c1c;--ink:#f2f2f2;--muted:#a0a0a0;--rule:#2c2c2c;--accent:#e8b400;--measure:728px}
