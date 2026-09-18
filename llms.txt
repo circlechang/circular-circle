@@ -20,8 +20,46 @@
 - 2026-09-18 收錄｜環境部主管法規共用系統｜最新訊息：[關於廢棄物清理法115年7月15日修正施行後之新舊法適用，及違反廢棄物清理法罰鍰額度裁罰準則修正發布前之罰鍰額度，執行機關仍應依行政罰法第18條第1項規定及廢棄物清理法第63條之1第1項前段規定辦理](https://oaout.moenv.gov.tw/law/NewsContent.aspx?id=44171)
 - 2026-09-18 收錄｜環境部主管法規共用系統｜草案預告：[環境部公告：預告「廢乾電池回收貯存清除處理方法及設施標準」修正草案](https://join.gov.tw/policies/gazette/metaId/168346)
 
+## 讀法地圖（照順序讀；https://circlechang.github.io/circular-circle/guide/）
+
+### 起點｜先看地圖：兩部法怎麼分工（我不做回收，為什麼也得把這兩部法讀完？）
+- [你手上那個箱子，現在是廢棄物嗎？](https://circlechang.github.io/circular-circle/posts/waste-status-not-industry/)：讀《廢棄物清理法》第2條與第41、46條，看懂決定要不要牌照的關鍵不是行業別，是東西當下的法律身分。
+- [兩部法的第一條，動詞已經寫死了分工](https://circlechang.github.io/circular-circle/posts/two-laws-one-pivot-moment/)：資源循環推動法與廢棄物清理法同年修正公布，第一條動詞不同、第四條藏著一個樞紐時刻，我讀完後的判斷整理。
+- [網路平台也要顧包裝了，但這條沒有牙齒](https://circlechang.github.io/circular-circle/posts/platform-packaging-responsibility-article5/)：資循法第5條第5款要求網路交易平台訂管理機制促成包裝減量，但罰則章沒引用這條，機制內容也還沒公告。
+- [同一批箱子，罰鍰跟刑責之間只隔一條線](https://circlechang.github.io/circular-circle/posts/fine-vs-criminal-liability-circular-law-line/)：資源循環推動法罰鍰最高30萬且無刑責，廢棄物清理法有刑責，同一批物質換了法律身分，最壞情況可能整個換掉。
+
+### 單元一｜身分：東西什麼時候變成廢棄物（同一個箱子，什麼時候是資產，什麼時候是廢棄物？）
+- [還能用，法律不管這個。](https://circlechang.github.io/circular-circle/posts/when-effect-is-unclear-its-waste/)：從廢清法第2條的「效用不明」談起：法律看的不是東西壞不壞，而是你講不講得出它現在的效用。
+- [形態有沒有變，決定你敲哪個機關的門。](https://circlechang.github.io/circular-circle/posts/reuse-or-reprocess-shape-decides-the-agency/)：《資源循環推動法》用「形態有沒有改變」分辨再使用跟再生利用，這條線也決定你要去敲哪個機關的門。
+- [「之後再用」不是身分，是意圖。](https://circlechang.github.io/circular-circle/posts/reuse-intent-is-not-legal-status/)：從倉庫裡「之後再用」的舊箱談起，拆資源循環推動法與廢棄物清理法怎麼認定一批東西的身分。
+- [破箱子堆在角落，算資產還是廢棄物？](https://circlechang.github.io/circular-circle/posts/packaging-boxes-asset-or-waste/)：從《廢棄物清理法》第2條與2-1條看，循環包材何時還是資產，何時滑向廢棄物。
+- [汰換整批箱子，法律先問你在做哪件事](https://circlechang.github.io/circular-circle/posts/retiring-reusable-boxes-waste-law-or-resource-law/)：循環包材整批汰換退場時，走廢棄物清理法還是資源循環推動法，責任與規矩差很多，而且身分不是永久的。
+- [辦法還沒公布，紀錄要不要照樣留？](https://circlechang.github.io/circular-circle/posts/record-keeping-during-the-regulatory-gap/)：資源循環推動法第25條授權的清運貯存辦法還沒公布，這段空窗期該怎麼留紀錄，我的讀法整理。
+
+### 單元二｜門檻：牌照、刑責與沙盒（哪些事要先拿牌照？沒有牌照的人還有哪條路？）
+- 整理中
+
+### 單元三｜義務：法律要你做什麼（綠色設計、重複使用、延長使用、禁限用，各自什麼時候落到你身上？）
+- 整理中
+
+### 單元四｜錢路：標誌、採購與費率（新法打開的錢從哪裡來？要拿出什麼證明？）
+- 整理中
+
+### 單元五｜罰則與接下來一年（罰的是什麼、誰來罰？接下來要盯哪些子法？）
+- 整理中
+
 ## 文章
+- [還能用，法律不管這個。](https://circlechang.github.io/circular-circle/posts/when-effect-is-unclear-its-waste/)（2026-09-18）：從廢清法第2條的「效用不明」談起：法律看的不是東西壞不壞，而是你講不講得出它現在的效用。
+- [辦法還沒公布，紀錄要不要照樣留？](https://circlechang.github.io/circular-circle/posts/record-keeping-during-the-regulatory-gap/)（2026-09-18）：資源循環推動法第25條授權的清運貯存辦法還沒公布，這段空窗期該怎麼留紀錄，我的讀法整理。
 - [廢清法換了條號，罰鍰卻還沒有算法](https://circlechang.github.io/circular-circle/posts/waste-act-penalty-transition-rule/)（2026-09-18）：環境部函釋回覆桃園環保局提問：廢清法7月15日修法後，裁罰準則跟不上母法，現在罰鍰怎麼算才對。
+- [網路平台也要顧包裝了，但這條沒有牙齒](https://circlechang.github.io/circular-circle/posts/platform-packaging-responsibility-article5/)（2026-09-18）：資循法第5條第5款要求網路交易平台訂管理機制促成包裝減量，但罰則章沒引用這條，機制內容也還沒公告。
 - [循環標誌50張，但「第一張」我查不到](https://circlechang.github.io/circular-circle/posts/loop-mark-50-labels-first-one-unverified/)（2026-09-18）：環境部循環標誌累積到50張，經濟日報報導廣鋐是「首張」，但我核對名單後發現查不出核發日期，也搞不清現在的標誌跟母法怎麼銜接。
 - [乾電池費率要改了，但只是換了個名字。](https://circlechang.github.io/circular-circle/posts/dry-battery-fee-rate-notice-2026-09/)（2026-09-18）：環境部預告修正乾電池回收清除處理費費率公告，法源改掛新版廢清法第16條之1第5項，費率數字是否變動我還沒查到。
+- [破箱子堆在角落，算資產還是廢棄物？](https://circlechang.github.io/circular-circle/posts/packaging-boxes-asset-or-waste/)（2026-09-18）：從《廢棄物清理法》第2條與2-1條看，循環包材何時還是資產，何時滑向廢棄物。
+- [兩部法的第一條，動詞已經寫死了分工](https://circlechang.github.io/circular-circle/posts/two-laws-one-pivot-moment/)（2026-09-18）：資源循環推動法與廢棄物清理法同年修正公布，第一條動詞不同、第四條藏著一個樞紐時刻，我讀完後的判斷整理。
+- [汰換整批箱子，法律先問你在做哪件事](https://circlechang.github.io/circular-circle/posts/retiring-reusable-boxes-waste-law-or-resource-law/)（2026-09-18）：循環包材整批汰換退場時，走廢棄物清理法還是資源循環推動法，責任與規矩差很多，而且身分不是永久的。
+- [形態有沒有變，決定你敲哪個機關的門。](https://circlechang.github.io/circular-circle/posts/reuse-or-reprocess-shape-decides-the-agency/)（2026-09-18）：《資源循環推動法》用「形態有沒有改變」分辨再使用跟再生利用，這條線也決定你要去敲哪個機關的門。
+- [你手上那個箱子，現在是廢棄物嗎？](https://circlechang.github.io/circular-circle/posts/waste-status-not-industry/)（2026-09-18）：讀《廢棄物清理法》第2條與第41、46條，看懂決定要不要牌照的關鍵不是行業別，是東西當下的法律身分。
+- [同一批箱子，罰鍰跟刑責之間只隔一條線](https://circlechang.github.io/circular-circle/posts/fine-vs-criminal-liability-circular-law-line/)（2026-09-18）：資源循環推動法罰鍰最高30萬且無刑責，廢棄物清理法有刑責，同一批物質換了法律身分，最壞情況可能整個換掉。
+- [「之後再用」不是身分，是意圖。](https://circlechang.github.io/circular-circle/posts/reuse-intent-is-not-legal-status/)（2026-09-18）：從倉庫裡「之後再用」的舊箱談起，拆資源循環推動法與廢棄物清理法怎麼認定一批東西的身分。
 

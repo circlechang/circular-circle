@@ -96,3 +96,31 @@ footer.site p{margin:0 0 8px}
 .ml-form-embedSubmitLoad{display:inline-block;width:16px;height:16px;border-radius:50%;border:3px solid #121212;border-color:#121212 #121212 #121212 transparent;animation:mlspin 1.2s linear infinite}
 @keyframes mlspin{to{transform:rotate(360deg)}}
 .intro .subscribe{margin-top:22px;text-align:left}
+
+/* 讀法地圖（2026-09-18）：單元導覽、文末路線、首頁地圖 */
+.unitbox{border:1px solid var(--rule);border-left:4px solid var(--accent);background:var(--panel);padding:14px 18px;margin:0 0 28px;font-size:15px;line-height:1.6}
+.unitbox p{margin:0 0 6px}.unitbox p:last-child{margin:0}
+.unitbox .where{font-size:13px;color:var(--muted);letter-spacing:.04em}
+.unitbox .where a{color:var(--muted)}.unitbox .count{font-size:13px;color:var(--muted)}
+.unitbox .prev{font-size:14px;color:var(--muted)}
+.unitroute{border-top:1px solid var(--rule);margin-top:40px;padding-top:18px;font-size:15px}
+.unitroute .h{font-weight:700;margin:0 0 10px}
+.unitroute ol{margin:0 0 12px;padding-left:1.4em}.unitroute li{margin:0 0 6px}
+.unitroute b{color:var(--accent)}
+.pn{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:18px;font-size:13px;color:var(--muted)}
+.pn a{font-size:15px}.pn .r{text-align:right}
+.unitmap{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:12px}
+.unitmap>li>a{display:block;height:100%;border:1px solid var(--rule);background:var(--panel);padding:14px 16px;text-decoration:none;border-radius:6px}
+.unitmap>li>a:hover{border-color:var(--accent)}
+.unitmap .lab{display:block;font-size:12px;color:var(--accent);letter-spacing:.08em;margin-bottom:4px}
+.unitmap b{display:block;font-size:16px;line-height:1.45;color:var(--ink)}
+.unitmap .count{display:block;font-size:12px;color:var(--muted);margin-top:6px}
+.unitmap.full{display:block;margin-top:36px}
+.unitmap.full>li{border-top:1px solid var(--rule);padding:22px 0}
+.unitmap.full .lab{font-size:13px}.unitmap.full .count{display:inline;margin-left:10px}
+.unitmap.full h2{font-size:24px;margin:2px 0 6px}
+.unitmap.full .q{color:var(--muted);margin:0 0 12px}
+.route{padding-left:1.4em;margin:0}.route li{margin:0 0 10px}
+.route .sub{display:block;font-size:14px;color:var(--muted)}
+.home-map{margin:8px auto 48px}.home-map h2,.latest-h{font-size:22px;margin:0 auto 12px}
+@media (max-width:560px){.pn{grid-template-columns:1fr}.pn .r{text-align:left}}
